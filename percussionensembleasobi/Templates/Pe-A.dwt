@@ -1,0 +1,75 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Percussion Ensemble ASOBI Top</title>
+<!-- TemplateEndEditable -->
+<link rel="shortcut icon" href="../favicon.ico">
+
+<link href="../pe-A.css" rel="stylesheet" type="text/css"/>
+
+<!-- TemplateBeginEditable name="追加css" -->
+<style type="text/css">
+
+#container {}
+
+</style>
+<!-- TemplateEndEditable --><!-- TemplateBeginEditable name="head" --><!-- TemplateEndEditable -->
+</head>
+
+<body>
+
+<div id= "container">
+
+<div id= "header">
+<h1 class="logo"><a href="top.html"><img src="../image/space.gif" alt="Percussion Ensemble ASOBI, パーカッション・アンサンブル ＡＳＯＢＩのホームページです" width="170" height="100" /></a></h1>
+
+</div>
+
+
+
+<div id= "gnavi">
+<!-- TemplateBeginEditable name="コンテンツ" -->
+
+<ul>
+<li><a href="#">About</a></li>
+<li><a href="#">Member</a></li>
+<li><a href="#">Biography</a></li>
+<li><a href="#">Discography</a></li>
+<li><a href="#">Concertflyer</a></li>
+<li><a href="#">Blog</a></li>
+<li><a href="#">Contact</a></li>
+</ul>
+
+<!-- TemplateEndEditable -->
+</div>
+
+<!-- TemplateBeginEditable name="ナビ" -->
+<div id="contents"> 
+
+</div>
+<!-- TemplateEndEditable -->
+
+<div id= "footer">
+
+<ul>
+<li><a href="about.html">About </a></li>
+<li><a href="member.html">Member </a></li>
+<li><a href="bio.html">Biography </a></li>
+<li><a href="disco.html">Discography </a></li>
+<li><a href="concert.html">Concertflyer </a></li>
+<li><a href="http://blog.goo.ne.jp/asobism">Blog </a></li>
+<li><a href="contact.html">Contact</a></li>
+</ul>
+
+<p align="right">copyright &copy; Percussion Enasemble ASOBI. allright reserved.</p>
+
+</div>
+
+</div>
+
+</body>
+</html>
